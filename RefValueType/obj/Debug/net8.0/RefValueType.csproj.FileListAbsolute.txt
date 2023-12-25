@@ -1,0 +1,15 @@
+G:\CDAC_KNOW-IT\lab\DOT_NET\RefValueType\bin\Debug\net8.0\RefValueType.exe
+G:\CDAC_KNOW-IT\lab\DOT_NET\RefValueType\bin\Debug\net8.0\RefValueType.deps.json
+G:\CDAC_KNOW-IT\lab\DOT_NET\RefValueType\bin\Debug\net8.0\RefValueType.runtimeconfig.json
+G:\CDAC_KNOW-IT\lab\DOT_NET\RefValueType\bin\Debug\net8.0\RefValueType.dll
+G:\CDAC_KNOW-IT\lab\DOT_NET\RefValueType\bin\Debug\net8.0\RefValueType.pdb
+G:\CDAC_KNOW-IT\lab\DOT_NET\RefValueType\obj\Debug\net8.0\RefValueType.GeneratedMSBuildEditorConfig.editorconfig
+G:\CDAC_KNOW-IT\lab\DOT_NET\RefValueType\obj\Debug\net8.0\RefValueType.AssemblyInfoInputs.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\RefValueType\obj\Debug\net8.0\RefValueType.AssemblyInfo.cs
+G:\CDAC_KNOW-IT\lab\DOT_NET\RefValueType\obj\Debug\net8.0\RefValueType.csproj.CoreCompileInputs.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\RefValueType\obj\Debug\net8.0\RefValueType.sourcelink.json
+G:\CDAC_KNOW-IT\lab\DOT_NET\RefValueType\obj\Debug\net8.0\RefValueType.dll
+G:\CDAC_KNOW-IT\lab\DOT_NET\RefValueType\obj\Debug\net8.0\refint\RefValueType.dll
+G:\CDAC_KNOW-IT\lab\DOT_NET\RefValueType\obj\Debug\net8.0\RefValueType.pdb
+G:\CDAC_KNOW-IT\lab\DOT_NET\RefValueType\obj\Debug\net8.0\RefValueType.genruntimeconfig.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\RefValueType\obj\Debug\net8.0\ref\RefValueType.dll

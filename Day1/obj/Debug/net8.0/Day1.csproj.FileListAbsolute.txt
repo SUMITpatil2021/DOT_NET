@@ -1,0 +1,15 @@
+G:\CDAC_KNOW-IT\lab\DOT_NET\Day1\bin\Debug\net8.0\Day1.exe
+G:\CDAC_KNOW-IT\lab\DOT_NET\Day1\bin\Debug\net8.0\Day1.deps.json
+G:\CDAC_KNOW-IT\lab\DOT_NET\Day1\bin\Debug\net8.0\Day1.runtimeconfig.json
+G:\CDAC_KNOW-IT\lab\DOT_NET\Day1\bin\Debug\net8.0\Day1.dll
+G:\CDAC_KNOW-IT\lab\DOT_NET\Day1\bin\Debug\net8.0\Day1.pdb
+G:\CDAC_KNOW-IT\lab\DOT_NET\Day1\obj\Debug\net8.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+G:\CDAC_KNOW-IT\lab\DOT_NET\Day1\obj\Debug\net8.0\Day1.AssemblyInfoInputs.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\Day1\obj\Debug\net8.0\Day1.AssemblyInfo.cs
+G:\CDAC_KNOW-IT\lab\DOT_NET\Day1\obj\Debug\net8.0\Day1.csproj.CoreCompileInputs.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\Day1\obj\Debug\net8.0\Day1.sourcelink.json
+G:\CDAC_KNOW-IT\lab\DOT_NET\Day1\obj\Debug\net8.0\Day1.dll
+G:\CDAC_KNOW-IT\lab\DOT_NET\Day1\obj\Debug\net8.0\refint\Day1.dll
+G:\CDAC_KNOW-IT\lab\DOT_NET\Day1\obj\Debug\net8.0\Day1.pdb
+G:\CDAC_KNOW-IT\lab\DOT_NET\Day1\obj\Debug\net8.0\Day1.genruntimeconfig.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\Day1\obj\Debug\net8.0\ref\Day1.dll
