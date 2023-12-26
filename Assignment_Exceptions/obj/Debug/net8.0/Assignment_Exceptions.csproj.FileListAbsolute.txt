@@ -1,0 +1,15 @@
+G:\CDAC_KNOW-IT\lab\DOT_NET\Assignment_Exceptions\bin\Debug\net8.0\Assignment_Exceptions.exe
+G:\CDAC_KNOW-IT\lab\DOT_NET\Assignment_Exceptions\bin\Debug\net8.0\Assignment_Exceptions.deps.json
+G:\CDAC_KNOW-IT\lab\DOT_NET\Assignment_Exceptions\bin\Debug\net8.0\Assignment_Exceptions.runtimeconfig.json
+G:\CDAC_KNOW-IT\lab\DOT_NET\Assignment_Exceptions\bin\Debug\net8.0\Assignment_Exceptions.dll
+G:\CDAC_KNOW-IT\lab\DOT_NET\Assignment_Exceptions\bin\Debug\net8.0\Assignment_Exceptions.pdb
+G:\CDAC_KNOW-IT\lab\DOT_NET\Assignment_Exceptions\obj\Debug\net8.0\Assignment_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+G:\CDAC_KNOW-IT\lab\DOT_NET\Assignment_Exceptions\obj\Debug\net8.0\Assignment_Exceptions.AssemblyInfoInputs.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\Assignment_Exceptions\obj\Debug\net8.0\Assignment_Exceptions.AssemblyInfo.cs
+G:\CDAC_KNOW-IT\lab\DOT_NET\Assignment_Exceptions\obj\Debug\net8.0\Assignment_Exceptions.csproj.CoreCompileInputs.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\Assignment_Exceptions\obj\Debug\net8.0\Assignment_Exceptions.sourcelink.json
+G:\CDAC_KNOW-IT\lab\DOT_NET\Assignment_Exceptions\obj\Debug\net8.0\Assignment_Exceptions.dll
+G:\CDAC_KNOW-IT\lab\DOT_NET\Assignment_Exceptions\obj\Debug\net8.0\refint\Assignment_Exceptions.dll
+G:\CDAC_KNOW-IT\lab\DOT_NET\Assignment_Exceptions\obj\Debug\net8.0\Assignment_Exceptions.pdb
+G:\CDAC_KNOW-IT\lab\DOT_NET\Assignment_Exceptions\obj\Debug\net8.0\Assignment_Exceptions.genruntimeconfig.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\Assignment_Exceptions\obj\Debug\net8.0\ref\Assignment_Exceptions.dll

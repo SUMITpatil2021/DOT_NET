@@ -1,0 +1,5 @@
+G:\CDAC_KNOW-IT\lab\DOT_NET\Exception\obj\Debug\net8.0\ExceptionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+G:\CDAC_KNOW-IT\lab\DOT_NET\Exception\obj\Debug\net8.0\ExceptionAssignment.AssemblyInfoInputs.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\Exception\obj\Debug\net8.0\ExceptionAssignment.AssemblyInfo.cs
+G:\CDAC_KNOW-IT\lab\DOT_NET\Exception\obj\Debug\net8.0\ExceptionAssignment.csproj.CoreCompileInputs.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\Exception\obj\Debug\net8.0\ExceptionAssignment.sourcelink.json
