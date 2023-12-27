@@ -1,0 +1,15 @@
+G:\CDAC_KNOW-IT\lab\DOT_NET\DelegatesAssignments\bin\Debug\net8.0\DelegatesAssignments.exe
+G:\CDAC_KNOW-IT\lab\DOT_NET\DelegatesAssignments\bin\Debug\net8.0\DelegatesAssignments.deps.json
+G:\CDAC_KNOW-IT\lab\DOT_NET\DelegatesAssignments\bin\Debug\net8.0\DelegatesAssignments.runtimeconfig.json
+G:\CDAC_KNOW-IT\lab\DOT_NET\DelegatesAssignments\bin\Debug\net8.0\DelegatesAssignments.dll
+G:\CDAC_KNOW-IT\lab\DOT_NET\DelegatesAssignments\bin\Debug\net8.0\DelegatesAssignments.pdb
+G:\CDAC_KNOW-IT\lab\DOT_NET\DelegatesAssignments\obj\Debug\net8.0\DelegatesAssignments.GeneratedMSBuildEditorConfig.editorconfig
+G:\CDAC_KNOW-IT\lab\DOT_NET\DelegatesAssignments\obj\Debug\net8.0\DelegatesAssignments.AssemblyInfoInputs.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\DelegatesAssignments\obj\Debug\net8.0\DelegatesAssignments.AssemblyInfo.cs
+G:\CDAC_KNOW-IT\lab\DOT_NET\DelegatesAssignments\obj\Debug\net8.0\DelegatesAssignments.csproj.CoreCompileInputs.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\DelegatesAssignments\obj\Debug\net8.0\DelegatesAssignments.sourcelink.json
+G:\CDAC_KNOW-IT\lab\DOT_NET\DelegatesAssignments\obj\Debug\net8.0\DelegatesAssignments.dll
+G:\CDAC_KNOW-IT\lab\DOT_NET\DelegatesAssignments\obj\Debug\net8.0\refint\DelegatesAssignments.dll
+G:\CDAC_KNOW-IT\lab\DOT_NET\DelegatesAssignments\obj\Debug\net8.0\DelegatesAssignments.pdb
+G:\CDAC_KNOW-IT\lab\DOT_NET\DelegatesAssignments\obj\Debug\net8.0\DelegatesAssignments.genruntimeconfig.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\DelegatesAssignments\obj\Debug\net8.0\ref\DelegatesAssignments.dll
