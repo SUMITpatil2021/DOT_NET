@@ -1,0 +1,15 @@
+G:\CDAC_KNOW-IT\lab\DOT_NET\ReflectionAssignment\bin\Debug\net8.0\ReflectionAssignment.exe
+G:\CDAC_KNOW-IT\lab\DOT_NET\ReflectionAssignment\bin\Debug\net8.0\ReflectionAssignment.deps.json
+G:\CDAC_KNOW-IT\lab\DOT_NET\ReflectionAssignment\bin\Debug\net8.0\ReflectionAssignment.runtimeconfig.json
+G:\CDAC_KNOW-IT\lab\DOT_NET\ReflectionAssignment\bin\Debug\net8.0\ReflectionAssignment.dll
+G:\CDAC_KNOW-IT\lab\DOT_NET\ReflectionAssignment\bin\Debug\net8.0\ReflectionAssignment.pdb
+G:\CDAC_KNOW-IT\lab\DOT_NET\ReflectionAssignment\obj\Debug\net8.0\ReflectionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+G:\CDAC_KNOW-IT\lab\DOT_NET\ReflectionAssignment\obj\Debug\net8.0\ReflectionAssignment.AssemblyInfoInputs.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\ReflectionAssignment\obj\Debug\net8.0\ReflectionAssignment.AssemblyInfo.cs
+G:\CDAC_KNOW-IT\lab\DOT_NET\ReflectionAssignment\obj\Debug\net8.0\ReflectionAssignment.csproj.CoreCompileInputs.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\ReflectionAssignment\obj\Debug\net8.0\ReflectionAssignment.sourcelink.json
+G:\CDAC_KNOW-IT\lab\DOT_NET\ReflectionAssignment\obj\Debug\net8.0\ReflectionAssignment.dll
+G:\CDAC_KNOW-IT\lab\DOT_NET\ReflectionAssignment\obj\Debug\net8.0\refint\ReflectionAssignment.dll
+G:\CDAC_KNOW-IT\lab\DOT_NET\ReflectionAssignment\obj\Debug\net8.0\ReflectionAssignment.pdb
+G:\CDAC_KNOW-IT\lab\DOT_NET\ReflectionAssignment\obj\Debug\net8.0\ReflectionAssignment.genruntimeconfig.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\ReflectionAssignment\obj\Debug\net8.0\ref\ReflectionAssignment.dll

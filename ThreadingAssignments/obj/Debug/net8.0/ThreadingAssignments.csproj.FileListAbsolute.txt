@@ -1,0 +1,15 @@
+G:\CDAC_KNOW-IT\lab\DOT_NET\ThreadingAssignments\bin\Debug\net8.0\ThreadingAssignments.exe
+G:\CDAC_KNOW-IT\lab\DOT_NET\ThreadingAssignments\bin\Debug\net8.0\ThreadingAssignments.deps.json
+G:\CDAC_KNOW-IT\lab\DOT_NET\ThreadingAssignments\bin\Debug\net8.0\ThreadingAssignments.runtimeconfig.json
+G:\CDAC_KNOW-IT\lab\DOT_NET\ThreadingAssignments\bin\Debug\net8.0\ThreadingAssignments.dll
+G:\CDAC_KNOW-IT\lab\DOT_NET\ThreadingAssignments\bin\Debug\net8.0\ThreadingAssignments.pdb
+G:\CDAC_KNOW-IT\lab\DOT_NET\ThreadingAssignments\obj\Debug\net8.0\ThreadingAssignments.GeneratedMSBuildEditorConfig.editorconfig
+G:\CDAC_KNOW-IT\lab\DOT_NET\ThreadingAssignments\obj\Debug\net8.0\ThreadingAssignments.AssemblyInfoInputs.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\ThreadingAssignments\obj\Debug\net8.0\ThreadingAssignments.AssemblyInfo.cs
+G:\CDAC_KNOW-IT\lab\DOT_NET\ThreadingAssignments\obj\Debug\net8.0\ThreadingAssignments.csproj.CoreCompileInputs.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\ThreadingAssignments\obj\Debug\net8.0\ThreadingAssignments.sourcelink.json
+G:\CDAC_KNOW-IT\lab\DOT_NET\ThreadingAssignments\obj\Debug\net8.0\ThreadingAssignments.dll
+G:\CDAC_KNOW-IT\lab\DOT_NET\ThreadingAssignments\obj\Debug\net8.0\refint\ThreadingAssignments.dll
+G:\CDAC_KNOW-IT\lab\DOT_NET\ThreadingAssignments\obj\Debug\net8.0\ThreadingAssignments.pdb
+G:\CDAC_KNOW-IT\lab\DOT_NET\ThreadingAssignments\obj\Debug\net8.0\ThreadingAssignments.genruntimeconfig.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\ThreadingAssignments\obj\Debug\net8.0\ref\ThreadingAssignments.dll
