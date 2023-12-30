@@ -1,0 +1,26 @@
+﻿<div>
+	<div>
+		<h1>Employee Form </h1>
+	</div>
+	<form class="form-group" asp-controller="Emp" asp-action="DisplayEmp" method="post">
+		<div>
+			Enter ID:
+			<input type="number" class="form-control" name="id"/>
+		</div>
+		<div>
+			Enter Name : 
+			<input type="text" name="ename" class="form-control"/>
+		</div>
+		<div>
+			Enter Job Spcification : 
+			<input type="text" name="job" class="form-control"/>
+		</div>
+		<div>
+			Enter Salary : 
+			<input  type="number" name="sal" class="form-control"/>
+		</div>
+		<div>
+			<input type="submit" value="Submit" class="btn btn-primary"/>
+		</div>
+	</form>
+</div>

@@ -1,0 +1,32 @@
+﻿<div>
+	<h1 class="text-center">Student Management System </h1> <br />
+
+	<form class="form-group" asp-controller="Student" asp-action="DisplayStudent" method="post">
+		<h2> Student Registration </h2>
+		<div>
+			Enter Student ID
+			<input type="number" name="sid" class="form-control" />
+		</div>
+
+		<div>
+			Enter Student Name 
+			<input type="text" name="sname" class="form-control" />
+		</div>
+
+		<div>
+			Enter Age 
+			<input  type="number" name="age" class="form-control"/>
+		</div>
+			
+		<div>
+			Enter Marks 
+			<input type="number" name="marks" class="form-control"/>
+
+		</div>
+		<br/>
+		<div>
+			<input type="submit" value="Submit" class="btnn btn-success"/>
+		</div>
+
+	</form>
+</div>

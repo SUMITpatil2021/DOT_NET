@@ -1,0 +1,29 @@
+﻿@model Employee
+<div class="container">
+	<h1>Employee Information </h1>
+	<table class="table table-bordered" >
+		<tr>
+			<th>Feild</th>
+			<th>Description</th>
+		</tr>
+		<tr>
+			<td>Employee ID :  </td>
+			<td>@Model.Id</td>
+		</tr>
+
+		<tr>
+			<td>Employee Name : </td>
+			<td>@Model.Name</td>
+		</tr>
+
+		<tr>
+			<td>Job Role : </td>
+			<td>@Model.Job</td>
+		</tr>
+		<tr>
+			<td>Salary : </td>
+			<td>@Model.salary</td>
+		</tr>
+	</table>
+</div>
+

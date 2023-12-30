@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JAL+VqfYj1O3RwuIKHd5uGzXJuQ3L8Q6sF3o9SHFEWTvr2kD31jbPgNeyRxHvtdAdaRwbZD2iFLuIFUYV2JLGw==",
+  "success": true,
+  "projectFilePath": "G:\\CDAC_KNOW-IT\\lab\\DOT_NET\\ADO_ASSIGNMENTS\\ADO_ASSIGNMENTS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\mysqlconnector\\2.3.3\\mysqlconnector.2.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
