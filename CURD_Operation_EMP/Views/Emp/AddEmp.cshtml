@@ -1,0 +1,27 @@
+﻿
+
+@model Employee
+<div>
+
+	<form class="form-group">
+		<div>
+			Enter Eno 
+			<input type="number" asp-for="eno" class="form-control"/>
+			<span asp-validation-for="eno" class="text-danger"></span>
+		</div>
+
+		<div>
+			Enter EName 
+			<input type="text" asp-for="ename" class="form-control" />
+			<span asp-validation-for="ename" class="text-danger"></span>
+		</div>
+
+		<div>
+			Enter Job Role
+			<input type="text" asp-for="job"  class="form-control" />
+			<span asp-validation-for="job" class="text-danger"></span>
+
+		</div>
+
+	</form>
+</div>

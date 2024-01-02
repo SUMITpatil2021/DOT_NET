@@ -1,0 +1,15 @@
+G:\CDAC_KNOW-IT\lab\DOT_NET\Practice\bin\Debug\net8.0\Practice.exe
+G:\CDAC_KNOW-IT\lab\DOT_NET\Practice\bin\Debug\net8.0\Practice.deps.json
+G:\CDAC_KNOW-IT\lab\DOT_NET\Practice\bin\Debug\net8.0\Practice.runtimeconfig.json
+G:\CDAC_KNOW-IT\lab\DOT_NET\Practice\bin\Debug\net8.0\Practice.dll
+G:\CDAC_KNOW-IT\lab\DOT_NET\Practice\bin\Debug\net8.0\Practice.pdb
+G:\CDAC_KNOW-IT\lab\DOT_NET\Practice\obj\Debug\net8.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+G:\CDAC_KNOW-IT\lab\DOT_NET\Practice\obj\Debug\net8.0\Practice.AssemblyInfoInputs.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\Practice\obj\Debug\net8.0\Practice.AssemblyInfo.cs
+G:\CDAC_KNOW-IT\lab\DOT_NET\Practice\obj\Debug\net8.0\Practice.csproj.CoreCompileInputs.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\Practice\obj\Debug\net8.0\Practice.sourcelink.json
+G:\CDAC_KNOW-IT\lab\DOT_NET\Practice\obj\Debug\net8.0\Practice.dll
+G:\CDAC_KNOW-IT\lab\DOT_NET\Practice\obj\Debug\net8.0\refint\Practice.dll
+G:\CDAC_KNOW-IT\lab\DOT_NET\Practice\obj\Debug\net8.0\Practice.pdb
+G:\CDAC_KNOW-IT\lab\DOT_NET\Practice\obj\Debug\net8.0\Practice.genruntimeconfig.cache
+G:\CDAC_KNOW-IT\lab\DOT_NET\Practice\obj\Debug\net8.0\ref\Practice.dll

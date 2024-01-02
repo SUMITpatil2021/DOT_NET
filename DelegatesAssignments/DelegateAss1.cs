@@ -13,7 +13,6 @@ namespace DelegatesAssignments
         {
             Console.WriteLine("UpperCase  : "+s.ToUpper());
             Console.WriteLine("--------------------------------");
-
         }
 
         public static void Lower(string s)
@@ -43,8 +42,6 @@ namespace DelegatesAssignments
             action += Lower;
             action += Print; 
             action("Developer");
-
-
         }
     }
 }

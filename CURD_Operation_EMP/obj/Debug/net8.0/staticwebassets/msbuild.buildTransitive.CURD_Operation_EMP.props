@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CURD_Operation_EMP.props" />
+</Project>

@@ -13,6 +13,7 @@ namespace DelegatesAssignments
         public delegate void DelString(string s);
         public static void main(String[]args)
         {
+            //Using Annonyonoumous function 
             DelString d=delegate (string s)
                 {
                 Console.WriteLine("LowerCase : "+s.ToLower());
