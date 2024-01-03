@@ -1,9 +1,9 @@
 ﻿
 
 @model Employee
-<div>
 
-	<form class="form-group">
+
+	<form class="form-group" asp-controller="Emp" asp-action="AddEmp" method="post">
 		<div>
 			Enter Eno 
 			<input type="number" asp-for="eno" class="form-control"/>
@@ -23,5 +23,15 @@
 
 		</div>
 
+		<div>
+			Enter Salary 
+			<input  type="number" asp-for="sal" class="form-control"/>
+			<span asp-validation-for="sal" class="text-danger"></span>
+		</div>
+			 <br />
+		<div>
+			<input  type="submit" value="submit" class="btn btn-success"/>
+
+			<input type="reset" value="clear" class="btn btn-danger" />
+		</div>
 	</form>
-</div>

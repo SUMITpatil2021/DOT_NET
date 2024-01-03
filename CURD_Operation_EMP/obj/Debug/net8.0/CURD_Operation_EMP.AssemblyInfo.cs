@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CURD_Operation_EMP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dea86d31f86cb676844f5c1ed9ed398974aa5f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0eacedf3a681450117950bbccc888580f3124ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("CURD_Operation_EMP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CURD_Operation_EMP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
